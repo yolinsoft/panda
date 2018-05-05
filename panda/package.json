@@ -1,0 +1,33 @@
+{
+    "name": "Panda",
+    "version": "1.1",
+    "maintainers": {
+        "name": "stormtea123",
+        "email": "1280597658@qq.com",
+        "web": "http://www.w3cmm.com/",
+        "project": "https://github.com/stormtea123/panda",
+        "issues": "https://github.com/stormtea123/panda/issues",
+        "docs": "https://github.com/stormtea123/panda/wiki",
+        "faq": "https://github.com/stormtea123/panda/wiki/FAQ"
+    },
+    "description": "A simple font processing tools",
+    "main": "index.html",
+    "window": {
+        "title": "小熊猫 v1.1",
+        "toolbar": false,
+        "icon": "icon.png",
+        "width": 280,
+        "height": 428,
+        "position": "center",
+        "resizable": false,
+        "frame": true
+    },
+    "chromium-args": "--enable-threaded-compositing",
+    "dependencies": {
+        "font-carrier": "0.0.12"
+    },
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/stormtea123/panda.git"
+    }]
+}

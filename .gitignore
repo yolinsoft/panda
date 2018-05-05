@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+*.exe
+*.dmg
+/panda/node_modules
+/build
+*.idea
+cache
