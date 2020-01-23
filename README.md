@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/1193966/15237922/3edf64c2-1905-11e6-9503-b5cd0765313f.png">
 
-小熊猫是一款字体处理工具。
+小熊猫是一款字体处理工具，是基于<a href="https://github.com/purplebamboo/font-carrier">font-carrier</a>的可视化封装</p>
 
 ## install
 
@@ -30,8 +30,6 @@
 3.裁剪，从中文字体中过滤出需要的字形（过滤8.1M的中文字体，需等待时间约6s）
 
 <img src="https://cloud.githubusercontent.com/assets/1193966/15237921/3edf1ff8-1905-11e6-9734-b6b060e3a9ae.png" alt="4" style="max-width:100%;">
-
-> 感谢<a href="https://github.com/purplebamboo/font-carrier">font-carrier</a>提供底层技术支持</p>
 
 
 
