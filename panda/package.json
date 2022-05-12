@@ -1,19 +1,19 @@
 {
     "name": "Panda",
-    "version": "1.1",
+    "version": "1.2",
     "maintainers": {
-        "name": "stormtea123",
-        "email": "1280597658@qq.com",
-        "web": "http://www.w3cmm.com/",
-        "project": "https://github.com/stormtea123/panda",
-        "issues": "https://github.com/stormtea123/panda/issues",
-        "docs": "https://github.com/stormtea123/panda/wiki",
-        "faq": "https://github.com/stormtea123/panda/wiki/FAQ"
+        "name": "leibnizli",
+        "email": "stormte@gmail.com",
+        "web": "https://github.com/leibnizli/panda",
+        "project": "https://github.com/leibnizli/panda",
+        "issues": "https://github.com/leibnizli/panda/issues",
+        "docs": "https://github.com/leibnizli/panda/wiki",
+        "faq": "https://github.com/leibnizli/panda/wiki/FAQ"
     },
     "description": "A simple font processing tools",
     "main": "index.html",
     "window": {
-        "title": "小熊猫 v1.1",
+        "title": "小熊猫 v1.2",
         "toolbar": false,
         "icon": "icon.png",
         "width": 280,
@@ -24,10 +24,12 @@
     },
     "chromium-args": "--enable-threaded-compositing",
     "dependencies": {
-        "font-carrier": "0.0.12"
+        "font-carrier": "^0.2.0"
     },
-    "repositories": [{
-        "type": "git",
-        "url": "https://github.com/stormtea123/panda.git"
-    }]
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/leibnizli/panda.git"
+        }
+    ]
 }

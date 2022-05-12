@@ -1,33 +1,33 @@
+English | [简体中文](./README-zh-CN.md)
+
 # <img src="https://cloud.githubusercontent.com/assets/1193966/15237922/3edf64c2-1905-11e6-9503-b5cd0765313f.png">
 
-小熊猫是一款字体处理工具，是基于<a href="https://github.com/purplebamboo/font-carrier">font-carrier</a>的可视化封装</p>
-
-## install
+## Install
 
 * <del>macOS X32</del> v1.1
-* <a href="https://pan.baidu.com/s/1uK0NdteMS1To_4MZH4h1RA" rel="nofollow">macOS X64</a> v1.1 (提取码：`d9by`，适用于macOS Catalina+)
-* <a href="http://pan.baidu.com/s/1mhUP2Pi" rel="nofollow">Windows</a> v1.1
-* <a href="https://itunes.apple.com/cn/app/webfont/id1181350496?mt=12" rel="nofollow">App Store</a> 尊贵收费版
+* <a href="https://drive.google.com/file/d/1hcyQ87oEwvepvy2hk6EExKhbSOYDO5-m/view?usp=sharing">macOS X64</a> v1.1 (for macOS Catalina+)
+* <a href="https://drive.google.com/file/d/1b6GG30jnqAlsBWQ2-n98dGoxXCg3bWK6/view?usp=sharing">Windows</a> v1.1
+* <a href="https://itunes.apple.com/app/id1181350496">App Store</a> Paid version
 
 
-## 功能
+## Features
 
 
-1.合并，可将svg文件批量拼合为字体文件
+1.Merge, svg files can be combined into font files in batches.
 
 <img src="https://cloud.githubusercontent.com/assets/1193966/15237919/3edb25c4-1905-11e6-9a9a-be8851951840.png" alt="1" style="max-width:100%;">
 
-2.修改，可对字体追加、删除、替换、导出字形
+2.Modify, add, delete, replace, export glyphs
 
-例如：从指定的字体文件中导出指定的图标
+For example: export the specified icon from the specified font file
 
 <img src="https://cloud.githubusercontent.com/assets/1193966/15237920/3edb94a0-1905-11e6-992e-84fa3a7b91c4.gif" alt="2" style="max-width:100%;">
 
-例如：替换字体中的指定字形
+For example: replace a specified glyph in a font
 
 <img src="https://cloud.githubusercontent.com/assets/1193966/15237923/3edf94ec-1905-11e6-91ac-e600ee16a771.gif" alt="3" style="max-width:100%;">
 
-3.裁剪，从中文字体中过滤出需要的字形（过滤8.1M的中文字体，需等待时间约6s）
+3. Cut out the required glyphs from the Chinese fonts (to filter 8.1M Chinese fonts, the waiting time is about 6s)
 
 <img src="https://cloud.githubusercontent.com/assets/1193966/15237921/3edf1ff8-1905-11e6-9734-b6b060e3a9ae.png" alt="4" style="max-width:100%;">
 

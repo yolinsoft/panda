@@ -197,7 +197,7 @@ App.prototype = {
                     }
                     self._renderFile(dir);
                     font.output({
-                        path: dir + '/iconfont'
+                        path: dir + '/iconfont/'
                     })
                     renderBtn.removeClass("disable").html("生成");
                     isAllowRender = true;
