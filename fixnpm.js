@@ -5,7 +5,7 @@ const files = [
   {
     path: 'nw-builder/lib/versions.js',
     replace: {
-      8: "process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';"
+      7: "process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';"
     }
   }
 ]
